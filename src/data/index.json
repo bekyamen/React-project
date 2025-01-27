@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": " I specialze in creating visually appealing and user-friendly front-end designs using HTML,CSS,JavaScript, and frameworks like React. My focus is on building responsive , intuitive interfaces that seamless user experience while combining principles."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I specialize in building robust and efficient back-end systems using Node.js, Express, MongoDB, and MySQL. My focus is on creating secure APIs, managing server-side logic, and ensuring smooth data flow to deliver scalable and reliable web solutions."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": " I design intuitive and visually engaging user interfaces that enhance the overall user experience. By combining creativity with user-centered design principles, I ensure seamless navigation and functionality across all devices."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": " I build responsive, visually stunning Webflow websites, combining modern design with functionality for easy management and optimal performance."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.jpg",
+      "title": "Apple Website",
+      "description": "This project focuses on designing and developing a visually appealing, responsive, and user-friendly frontend for the Apple website, replicating its sleek, minimalistic design. It utilizes modern web technologies and best practices to ensure optimal performance across devices while aligning with Apple's brand identity.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.jpg",
+      "title": "Netflix Clone",
+      "description": "This project involves developing a Netflix clone, replicating the platform’s functionality with features like user authentication, movie categories, dynamic content, and video streaming. It demonstrates modern web development practices, focusing on seamless frontend and backend integration.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.jpg",
+      "title": "Amazone Clone",
+      "description": "This project involves building a fully functional Amazon clone, an e-commerce web application with a dynamic user interface and a robust backend. It replicates key Amazon features like product listings, user authentication, shopping cart, and order processing for a seamless shopping experience.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Great experience working with Bereket. he delivered a seamless and efficient solution, demonstrating strong technical skills and attention to detail. The project was completed on time, and communication throughout was excellent. Highly recommend for any development needs! ",
+      "author_name": "Dianne Russel",
+      "author_designation": "Web Developer"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Working with Bereket was a fantastic experience. his attention to detail, professionalism, and commitment to excellence made the entire process smooth and enjoyable. I look forward to future collaborations!",
+      "author_name": "Kristin Watson",
+      "author_designation": "Web Developer"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Great work on developing our company website! It’s user-friendly, visually appealing, and truly represents our brand. The project was completed on time, and we’re happy with the results. Thank you for your hard work and dedication!",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "Web Designer"
+    }
+  ]
+}
